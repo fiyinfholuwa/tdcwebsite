@@ -1,6 +1,6 @@
 import React from 'react';
 import { Check, Compass, Award, Building, Sparkles, ArrowRight } from 'lucide-react';
-import founderImg from '../assets/images/founder_dr_alfred_atiba_1790322482796.jpg';
+import founderImg from '../assets/images/real/aa.png';
 
 interface AboutSectionProps {
   onOpenConsultation: () => void;

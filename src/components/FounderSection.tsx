@@ -12,7 +12,7 @@ import {
   MapPin,
   QrCode,
 } from 'lucide-react';
-import founderImg from '../assets/images/founder_dr_alfred_atiba_1790322482796.jpg';
+import founderImg from '../assets/images/real/aa.png';
 import { TdcLogo } from './TdcLogo';
 
 interface FounderSectionProps {

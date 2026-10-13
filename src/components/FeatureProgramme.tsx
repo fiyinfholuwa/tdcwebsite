@@ -1,6 +1,6 @@
 import React from 'react';
 import { CheckCircle2, Calendar, Clock, MonitorPlay, Award, ArrowRight } from 'lucide-react';
-import workshopImg from '../assets/images/corporate_workshop_facilitation_1790322498770.jpg';
+import workshopImg from '../assets/images/real/hero3.png';
 
 interface FeatureProgrammeProps {
   onOpenConsultation: () => void;

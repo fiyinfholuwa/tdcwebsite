@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowRight, ShieldCheck, Users, Globe2, Award, Sparkles } from 'lucide-react';
-import heroImage from '../assets/images/hero_executive_boardroom_1790322466897.jpg';
+import heroImage from '../assets/images/real/hero2.png';
 
 interface HeroProps {
   onOpenConsultation: () => void;

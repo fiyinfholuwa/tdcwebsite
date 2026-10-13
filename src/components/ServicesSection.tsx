@@ -11,7 +11,7 @@ import {
   ChevronDown,
   Sparkles,
 } from 'lucide-react';
-import coachingImg from '../assets/images/executive_coaching_session_1790322510459.jpg';
+import coachingImg from '../assets/images/real/transform.png';
 
 interface ServicesSectionProps {
   onSelectService: (serviceName: string) => void;
